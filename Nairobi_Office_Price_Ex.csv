@@ -1,0 +1,15 @@
+LOC,FUR,AMB,PROX_SCH,PROX_ROAD,PROX_MALL,WATER,HK_SER,SIZE,PRICE
+karen,yes,serene,no,yes,yes,yes,yes,32.50234527,31.70700585
+madaraka,yes,semi_serene,yes,yes,yes,no,no,53.42680403,68.77759598
+karen,no,noisy,no,yes,yes,yes,yes,61.53035803,62.5623823
+karen,yes,semi_serene,no,no,no,yes,yes,47.47563963,71.54663223
+buruburu,no,semi_serene,no,yes,yes,yes,yes,59.81320787,87.23092513
+donholm,no,serene,no,no,yes,no,yes,55.14218841,78.21151827
+langata,no,very_noisy,yes,yes,no,no,yes,52.21179669,79.64197305
+langata,yes,serene,no,no,yes,yes,no,39.29956669,59.17148932
+donholm,yes,semi_serene,yes,no,no,yes,no,48.10504169,75.3312423
+karen,yes,serene,no,no,no,no,no,52.55001444,71.30087989
+madaraka,yes,noisy,yes,yes,no,yes,yes,45.41973014,55.16567715
+langata,no,semi_serene,yes,no,yes,yes,yes,54.35163488,82.47884676
+buruburu,yes,semi_serene,yes,yes,no,no,no,44.1640495,62.00892325
+karen,yes,semi_serene,yes,yes,yes,yes,yes,58.16847072,75.39287043
